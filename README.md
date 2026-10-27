@@ -18,7 +18,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=carlos-ngi&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-ngi&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-### 📬 Contact
+Contact
 ✉️ carlos@niggli.one · 📻 73
  
 <p align="center"><sub>Grüezi from the mountains 🇨🇭</sub></p>
